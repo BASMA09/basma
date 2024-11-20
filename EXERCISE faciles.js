@@ -108,5 +108,16 @@ function affichermessage(message){
     console.log("votre message"+  message)
 }
 affichermessage(" :  incroyable ")
+// Exercise 1
+
+let tableau = [10, 20, 30, 40, 50];
+console.log("Le tableau est :", tableau);
+// Exercise 2
+let fruits = ["apple", "banana", "cherry"];
+console.log(fruits[1]);
+//Exercise 3
+let tabl=
+
+
 
 
